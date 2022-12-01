@@ -7,8 +7,8 @@ following operations concurrently:
 - query for data by stock ticker (e.g. input: AA, would return 12 elements if the only data uploaded were the single data set above)
 - add a new record
 
-
-
+The backend application server has been developed using SpringBoot framework and in memory H2 databases has been used for storing the data.
+Additionally Swagger documentation(Open API) has been provided for testing and providing the documentation for rest API
 
 
 ## API Reference
