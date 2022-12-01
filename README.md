@@ -61,7 +61,7 @@ Go to the project directory
 
 The tests can be done through Open API or POSTMAN
 
-Testing with the OPEN API:
+Testing with the OPEN API(Swagger documentation):
 
 ```bash
   Go to : http://localhost:8080/swagger-ui/index.html#/
